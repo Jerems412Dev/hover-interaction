@@ -1,7 +1,7 @@
 # Hover Interaction
 
 It's a simple card hover interaction 
-## Util
+## Tools
 
 - Motion-react
 - Tailwind Css
