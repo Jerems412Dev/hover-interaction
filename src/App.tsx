@@ -34,7 +34,7 @@ function App() {
   return (
     <>
       <div
-        className="flex flex-col w-full h-screen items-start py-19 px-8 gap-y-1.5 font-mono"
+        className="flex flex-col w-full h-screen items-start py-19 px-8 gap-y-1.5"
       >
         <div className="leading-14 tracking-tighter">
           <motion.div
