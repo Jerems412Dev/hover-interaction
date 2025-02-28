@@ -12,15 +12,17 @@ function Card(children:Data) {
         transition:{ 
             delay: 0.1,
             duration: 0.4,
-            opacity: { duration: 0.1 }
+            ease: "easeInOut",
+            opacity: { duration: 0.4 },
         }},
         inactiveHover: { 
         opacity: 0, 
-        scale: 0.5,
+        scale: 0.6,
         transition:{ 
             delay: 0.1,
             duration: 0.7,
-            opacity: { duration: 0.8 }
+            opacity: { duration: 0.7 },
+            ease: "easeInOut",
         }}
     };
     
